@@ -42,7 +42,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL \
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL \
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL \
-![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png) Sequelize
+![Sequelize](https://img.icons8.com/office/48/000000/sequelize.png) Sequelize
 
 ### Tools
 
@@ -52,7 +52,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) Postman \
 ![Insomnia](https://img.icons8.com/color/48/000000/insomnia.png) Insomnia \
 ![Microsoft Teams](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams \
-![Jupyter Notebook](https://img.icons8.com/office/48/000000/jupyter-notebook.png) Jupyter Notebook
+![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter-notebook.png) Jupyter Notebook
 
 
 ## Education
