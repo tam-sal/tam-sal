@@ -35,9 +35,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  <img src="https://img.icons8.com/office/48/000000/api-settings.png" alt="Express.js">
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height='50px' alt="Express.js">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+  <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height='50px' alt="APIREAST">
 </div>
 
 ### Databases
