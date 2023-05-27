@@ -28,7 +28,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/jsx_icon_132288.png" height='50px' alt="JSX">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvacSjDYT4nGYxXnRhKmmLHltt09Cisj5AEs3IuQn8u_olq160JBYfJLy-lWu6EISu7bU&usqp=CAU" height='50px' alt="JSX">
 </div>
 
 ### Back-end
