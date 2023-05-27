@@ -2,7 +2,7 @@
 
 <div>
   <img align="right" width="400" src="https://github.com/tam-sal/tam-sal/assets/95254477/1c239f51-e42d-4c4d-bfea-a8029e376552">
-  <p>I'm a passionate full stack developer with expertise in JavaScript, Python, React, Redux, Node.js, Express, PostgreSQL, and Sequelize. I love creating web applications and have completed various bootcamps, gaining experience in front-end, back-end, and full stack development.</p>
+  <p>I'm a passionate full stack developer with expertise in JavaScript, Python, React.js, Redux.js, Node.js, Express.js, MySQL, PostgreSQL and Sequelize. I love creating web applications and have completed various bootcamps, gaining experience in front-end, back-end, and full stack development.</p>
 </div>
 
 ## About Me
