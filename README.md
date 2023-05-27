@@ -50,7 +50,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 ![Anaconda](https://img.icons8.com/dusk/48/000000/anaconda.png) Anaconda IDE \
 ![JIRA](https://img.icons8.com/color/48/000000/jira.png) JIRA \
 ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) Postman \
-![Insomnia](https://img.icons8.com/color/48/000000/insomnia.png) Insomnia \
+![Insomnia](![insom](https://github.com/tam-sal/tam-sal/assets/95254477/b497e948-14cc-45ee-ad90-fab860e72e8c)) Insomnia \
 ![Microsoft Teams](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams \
 ![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter-notebook.png) Jupyter Notebook
 
