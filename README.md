@@ -19,42 +19,48 @@ I believe in the power of technology to shape the future and solve real-world pr
 Let's connect and collaborate on exciting projects! You can reach me at [t.saleh.gc@gmail.com](mailto:t.saleh.gc@gmail.com).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore opportunities and stay updated with my latest work.
-
 ## Technologies
-
 
 ### Front-end
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" > 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" > 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" > 
-<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" > 
-<img src="https://img.icons8.com/office/48/000000/jsx.png" alt="JSX" >
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
+  <img src="https://img.icons8.com/office/48/000000/jsx.png" alt="JSX">
+</div>
 
 ### Back-end
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" > 
-<img src="https://img.icons8.com/office/48/000000/api-settings.png" alt="Express.js" > 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" > 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" > 
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/office/48/000000/api-settings.png" alt="Express.js">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+</div>
 
 ### Databases
 
-![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL \
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL \
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL \
-![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png) Sequelize
-
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.icons8.com/dusk/48/000000/sql.png" alt="SQL">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL">
+  <img src="https://img.icons8.com/color/48/000000/sequelize.png" alt="Sequelize">
+</div>
 
 ### Tools
 
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" > 
-<img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda" > 
-<img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" > 
-<img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" > 
-<img src="https://img.icons8.com/color/48/000000/insomnia.png" alt="Insomnia" > 
-<img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" > 
-<img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png" alt="Jupyter Notebook" >
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda">
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA">
+  <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman">
+  <img src="https://img.icons8.com/color/48/000000/insomnia.png" alt="Insomnia">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams">
+  <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png" alt="Jupyter Notebook">
+</div>
+
 
 
 ## Education
