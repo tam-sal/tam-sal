@@ -41,7 +41,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
   <img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" height='50px' alt="APIREAST">
 </div>
 
-### Databases
+### Database and ORMs
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.icons8.com/dusk/48/000000/sql.png" alt="SQL">
