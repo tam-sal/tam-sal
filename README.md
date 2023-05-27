@@ -56,7 +56,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda">
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA">
   <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman">
-  <img src="https://img.icons8.com/color/48/000000/insomnia.png" alt="Insomnia">
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height='50px' alt="Insomnia">
   <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams">
   <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png" alt="Jupyter Notebook">
 </div>
