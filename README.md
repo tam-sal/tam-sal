@@ -9,6 +9,7 @@
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://your-link)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://your-link)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)](https://your-link)
+[![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=rest&logoColor=white)](https://your-link)
 # Hi, I'm Tamer! 👋 Full Stack Developer
 
 <div>
