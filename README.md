@@ -30,9 +30,9 @@ During my educational journey, I have acquired valuable knowledge and skills tha
 
 - The Full Stack Diploma from [Henry](https://www.soyhenry.com/) equipped me with comprehensive training in web development, covering both front-end and back-end technologies, MVC Deesign Pattern and BFF Architecture. I gained hands-on experience with JavaScript (ES6), React.js, Redux.js, Redux-Thunk, Node.js, Express, PostgreSQL, Sequelize and more.
 
-- At UTN University, I earned another Full Stack Diploma. This program helped be establishing a comprehensive understanding of web development principles and advanced concepts. During this study I had the opportunity of dig deeper in vanilla JavaScript, HTML and CSS, and started using very useful libraries such as React.js, Node.js - Express, JWT, Session and NodeMailer, along with MySql database and Sequelize ORM.
+- At [UTN University](https://sceu.frba.utn.edu.ar/e-learning/), I earned another Full Stack Diploma. This program helped be developing a comprehensive understanding of web development principles and advanced concepts. During this study I had the opportunity of dig deeper in vanilla JavaScript, HTML and CSS, and started using very useful libraries such as React.js, Node.js - Express, JWT, Session and NodeMailer, along with MySql database and Sequelize ORM.
 
-- I also completed the Python 3.x Specialization program at the University of Michigan. This specialization provided a deep dive into the Python programming language and its applications in various domains.
+- I also completed the Python 3.x Specialization program at the [University of Michigan](https://www.coursera.org/specializations/python-3-programming). This specialization provided a deep dive into the Python programming language and its applications in various domains, completing the specialization program with a solid project aiming the text and image detection through AI libraries such as OpenCV, Pillow and Tesseract.
 
 These educational experiences have equipped me with a strong foundation and the necessary skills to tackle complex development projects. I continue to stay curious and expand my knowledge through continuous learning and exploring new technologies.
 
