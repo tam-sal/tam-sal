@@ -22,37 +22,39 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 
 ## Technologies
 
+
 ### Front-end
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 \
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 \
-![React](https://img.icons8.com/color/48/000000/react-native.png) React \
-![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux \
-![JSX](https://img.icons8.com/office/48/000000/jsx.png) JSX
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" > 
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" > 
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" > 
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" > 
+<img src="https://img.icons8.com/office/48/000000/jsx.png" alt="JSX" >
 
 ### Back-end
 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js \
-![Express.js](https://img.icons8.com/office/48/000000/api-settings.png) Express.js \
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript \
-![Python](https://img.icons8.com/color/48/000000/python.png) Python \
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" > 
+<img src="https://img.icons8.com/office/48/000000/api-settings.png" alt="Express.js" > 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" > 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" > 
 
-### Databse
+### Databases
 
 ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL \
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL \
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL \
-![Sequelize](https://img.icons8.com/office/48/000000/sequelize.png) Sequelize
+![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png) Sequelize
+
 
 ### Tools
 
-![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) Visual Studio Code \
-![Anaconda](https://img.icons8.com/dusk/48/000000/anaconda.png) Anaconda IDE \
-![JIRA](https://img.icons8.com/color/48/000000/jira.png) JIRA \
-![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) Postman \
-![Insomnia](![insom](https://github.com/tam-sal/tam-sal/assets/95254477/b497e948-14cc-45ee-ad90-fab860e72e8c)) Insomnia \
-![Microsoft Teams](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams \
-![Jupyter Notebook](https://img.icons8.com/color/48/000000/jupyter-notebook.png) Jupyter Notebook
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" > 
+<img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda" > 
+<img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" > 
+<img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" > 
+<img src="https://img.icons8.com/color/48/000000/insomnia.png" alt="Insomnia" > 
+<img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" > 
+<img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png" alt="Jupyter Notebook" >
 
 
 ## Education
