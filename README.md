@@ -20,6 +20,41 @@ Let's connect and collaborate on exciting projects! You can reach me at [t.saleh
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore opportunities and stay updated with my latest work.
 
+## Technologies
+
+### Front-end
+
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5 \
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3 \
+![React](https://img.icons8.com/color/48/000000/react-native.png) React \
+![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux \
+![JSX](https://img.icons8.com/office/48/000000/jsx.png) JSX
+
+### Back-end
+
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js \
+![Express.js](https://img.icons8.com/office/48/000000/api-settings.png) Express.js \
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript \
+![Python](https://img.icons8.com/color/48/000000/python.png) Python \
+
+### Databse
+
+![SQL](https://img.icons8.com/dusk/48/000000/sql.png) SQL \
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL \
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL \
+![Sequelize](https://img.icons8.com/color/48/000000/sequelize.png) Sequelize
+
+### Tools
+
+![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) Visual Studio Code \
+![Anaconda](https://img.icons8.com/dusk/48/000000/anaconda.png) Anaconda IDE \
+![JIRA](https://img.icons8.com/color/48/000000/jira.png) JIRA \
+![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) Postman \
+![Insomnia](https://img.icons8.com/color/48/000000/insomnia.png) Insomnia \
+![Microsoft Teams](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams \
+![Jupyter Notebook](https://img.icons8.com/office/48/000000/jupyter-notebook.png) Jupyter Notebook
+
+
 ## Education
 
 - Full Stack Diploma, [Henry](https://www.soyhenry.com/)
