@@ -81,8 +81,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 
 ## Education
 
-- Full Stack Diploma, [Henry](https://www.soyhenry.com/)
-- Full Stack Diploma, [UTN University](https://sceu.frba.utn.edu.ar/e-learning/)
+- Full Stack Web Development Diploma, [Henry](https://www.soyhenry.com/)
+- Full Stack Web Development Diploma, [UTN University](https://sceu.frba.utn.edu.ar/e-learning/)
 - Python 3.x Programming Specialization, [University of Michigan](https://www.coursera.org/specializations/python-3-programming)
 
 During my educational journey, I have acquired valuable knowledge and skills that have shaped me into a proficient full stack developer. Here are some highlights of my education:
