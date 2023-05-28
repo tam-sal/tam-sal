@@ -68,6 +68,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height='50px' alt="git">
+  <img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" height='50px' alt="github">
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA">
   <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman">
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height='50px' alt="Insomnia">
