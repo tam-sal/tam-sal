@@ -87,7 +87,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 
 During my educational journey, I have acquired valuable knowledge and skills that have shaped me into a proficient full stack developer. Here are some highlights of my education:
 
-- The Full Stack Development Bootcamp from [Henry](https://www.soyhenry.com/) equipped me with comprehensive training in web development, covering both front-end and back-end technologies, MVC Deesign Pattern and BFF Architecture. I gained hands-on experience with JavaScript (ES6), React.js, Redux.js, Redux-Thunk, Node.js, Express, PostgreSQL, Sequelize and more.
+- The Full Stack Development Bootcamp from [Henry](https://www.soyhenry.com/) equipped me with comprehensive training in web development, covering both front-end and back-end technologies, MVC Design Pattern and BFF Architecture. I gained hands-on experience with JavaScript (ES6), React.js, Redux.js, Redux-Thunk, Node.js, Express, PostgreSQL, Sequelize and more.
 
 - At [UTN University](https://sceu.frba.utn.edu.ar/e-learning/), I earned another Full Stack Diploma. This program helped be developing a comprehensive understanding of web development principles and advanced concepts. During this study I had the opportunity of dig deeper in vanilla JavaScript, HTML and CSS, and started using very useful libraries such as React.js, Node.js - Express, JWT, Session and NodeMailer, along with MySql database and Sequelize ORM.
 
