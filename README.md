@@ -69,7 +69,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code">
-  <img src="https://img.icons8.com/fluency/48/000000/netbeans.png" alt="NetBeans">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/NetBeans_8_icon.svg/1200px-NetBeans_8_icon.svg.png" height='50px' alt="Netbeans">
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png" alt="Anaconda">
   <img src="https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" height='50px' alt="Jupyter Notebook">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height='50px' alt="git">
@@ -78,7 +78,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
   <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman">
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" height='50px' alt="Insomnia">
   <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams">
-  <img src="https://img.icons8.com/fluent/48/000000/slack.png" alt="Slack">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Slack_icon.svg/1200px-Slack_icon.svg.png" height='50px' alt="Slack">
 </div>
 
 
