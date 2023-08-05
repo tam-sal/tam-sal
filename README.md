@@ -61,7 +61,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tamsaleh/) to explore 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.icons8.com/dusk/48/000000/sql.png" alt="SQL">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
-  <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png" height='45px' alt="PostgreSQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height='45px' alt="PostgreSQL">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png" height='50px' alt="Sequelize">
 </div>
 
