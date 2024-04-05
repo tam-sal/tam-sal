@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://your-link)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://your-link)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://your-link)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://your-link)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://your-link)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://your-link)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://your-link)
@@ -11,6 +12,9 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://your-link)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)](https://your-link)
 [![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=rest&logoColor=white)](https://your-link)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://your-link)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)](https://your-link)
+
 
 # Hi, I'm Tamer! 👋 Full Stack Developer
 
