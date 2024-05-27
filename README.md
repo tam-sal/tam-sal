@@ -20,7 +20,7 @@
 
 <div>
   <img align="right" width="400" src="https://github.com/tam-sal/tam-sal/assets/95254477/1c239f51-e42d-4c4d-bfea-a8029e376552">
-  <p>I'm a passionate full stack developer with expertise in JavaScript, JAVA, Python, React.js, Redux.js, Node.js, Express.js, JWT, bcrypt, MySQL, PostgreSQL and Sequelize. I love creating web applications and have completed various studies, gaining experience in front-end, back-end, and full stack development. Please feel free to visit my portfolio website <a target="_blank" href="https://tamers-dev.vercel.app/">here</a></p>
+  <p>I'm a passionate full stack developer with expertise in JavaScript, JAVA, Python, React.js, Redux.js, Node.js, Express.js, JWT, bcrypt, MySQL, PostgreSQL and Sequelize. I love creating web applications and have completed various studies, gaining experience in front-end, back-end, and full stack development. Please feel free to visit my portfolio website <a target="blank" href="https://tamers-dev.vercel.app/">here</a></p>
 </div>
 
 ## About Me
